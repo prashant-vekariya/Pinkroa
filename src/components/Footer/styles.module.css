@@ -1,0 +1,11 @@
+.footermain {
+    background-color: black;
+    color: white;
+    letter-spacing: 0.1rem;
+    height: 5rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+}
